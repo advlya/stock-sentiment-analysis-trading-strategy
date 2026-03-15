@@ -1,4 +1,4 @@
-# Stock Sentiment Analysis: AAPL vs TSLA
+# README Stock Sentiment Analysis: AAPL vs TSLA
 
 A comprehensive Python project analyzing how news sentiment influences stock price movements for Apple (AAPL) and Tesla (TSLA).
 
